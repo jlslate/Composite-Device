@@ -121,16 +121,16 @@ private createOrUpdateChildDevice() {
 // ── Type mapping ─────────────────────────────────────────────────────────────
 
 private Map typeOptions() {
-    ["water": "Water",
-     "lock": "Lock",
-     "door": "Door",
-     "window": "Window",
-     "smoke": "Smoke",
-     "motion": "Motion",
+    ["door": "Door",
      "garage": "Garage door",
-     "temperature": "Temperature",
      "humidity": "Humidity",
-     "illumination": "Illumination"]
+     "illumination": "Illumination",
+     "lock": "Lock",
+     "motion": "Motion",
+     "smoke": "Smoke",
+     "temperature": "Temperature",
+     "water": "Water",
+     "window": "Window"]
 }
 
 private String capabilityFor(String type) {
