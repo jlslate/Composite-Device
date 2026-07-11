@@ -4,7 +4,7 @@
  */
 
 /**
- * Composite Device Manager v1.0.0
+ * Composite Device Manager v1.0.1
  *
  * Parent app for Composite Device child apps. Each child app instance
  * builds and maintains one virtual "Composite Sensor" device made up of
