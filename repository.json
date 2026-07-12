@@ -1,0 +1,14 @@
+{
+  "author": "jlslate (slate)",
+  "gitHubUrl": "https://github.com/jlslate",
+  "packages": [
+    {
+      "id": "c92133ca-6b14-4035-82e3-81de0aef753e",
+      "name": "Composite Device",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/jlslate/Composite-Device/main/packageManifest.json",
+      "description": "Pools one or more real devices of the same type (water, lock, door, window, smoke, motion, garage door, temperature, humidity, or illuminance) into a single virtual device. By jlslate.",
+      "tags": ["Multi Sensors", "Convenience", "jlslate"]
+    }
+  ]
+}
